@@ -1,0 +1,1 @@
+web: gunicorn sitebetaver.wsgi --log-file -
